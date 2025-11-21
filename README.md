@@ -184,4 +184,5 @@ All personal training data is ignored using `.gitignore`.
 ---
 
 ## 📜 License
-Add your preferred license (MIT recommended).
+This project is licensed under the **MIT License** — see the [LICENSE](LICENSE) file for details.
+
