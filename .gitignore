@@ -1,0 +1,39 @@
+# Ignore data containing personal images
+data/
+photos/
+cropped/
+raw_images/
+dataset/
+face_data/
+
+# Ignore numpy embedding files
+*.npy
+
+# Ignore labels & internal metadata
+*.pkl
+
+# Ignore environment files
+*.env
+*.DS_Store
+
+# Ignore Python cache
+__pycache__/
+*.pyc
+
+# Ignore Streamlit cache
+.streamlit/
+
+# Ignore any model weights (optional)
+models/
+*.onnx
+*.h5
+
+# Ignore virtual environments
+env/
+venv/
+*/env/
+*/venv/
+*.conda
+
+# Ignore VS code settings
+.vscode/
